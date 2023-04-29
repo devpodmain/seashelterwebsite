@@ -24,6 +24,7 @@
 
     <link rel="stylesheet" href="css/style.css">
     
+    
   </head>
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="200">
   

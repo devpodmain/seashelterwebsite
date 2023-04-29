@@ -14,7 +14,7 @@
                 <ul class="list-unstyled">
                   <li><a href="#">About Us</a></li>
                   <li><a href="#">Services</a></li>
-                  <li><a href="#">Testimonials</a></li>
+                  <li><a href="#">Gallery</a></li>
                   <li><a href="#">Contact Us</a></li>
                 </ul>
               </div>
@@ -25,6 +25,7 @@
                 <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
                 <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
               </div>
+              <div class="col-md-3"></div>
             </div>
           </div>
           <div class="col-md-3">
@@ -39,13 +40,14 @@
             </form>
           </div>
         </div>
-        <div class="row pt-5 mt-5 text-center">
+        <div class="row text-center">
           <div class="col-md-12">
-            <div class="border-top pt-5">
+            <div class="border-top">
               <p>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> 
+            All rights reserved | Designed  by <a href="#" target="_blank" >Dzyte</a>
+        
             </p>
             </div>
           </div>
@@ -69,6 +71,7 @@
   <script src="js/aos.js"></script>
 
   <script src="js/main.js"></script>
+  
     
   </body>
 </html>
